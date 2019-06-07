@@ -30,3 +30,5 @@ I learned that the future is within our hands. People often use the same technol
 ## What's next for 3D Snake Hologram
 
 Possible interaction between a webcam and the 3D pyramid hologram interface. Allowing recognition and reactions to nearby motions or gestures. I think this is a piece of hardware that I can be proud of because I don't need anything external other than my monitor, plexiglas and code.
+
+((Project))
